@@ -1,3 +1,5 @@
+<h1>Başlık</h1>
+
 Üzerine gelince animasyonlu bir şekilde açılan ve içindeki içerik bilgilerini gösteren HTML ve CSS ile yazılan card.
 
 <h1>Video</h1>
